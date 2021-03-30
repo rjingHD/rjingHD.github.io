@@ -1,0 +1,88 @@
+baseURL                   = "https://example.com"
+builddrafts                = false
+languageCode               = "zn-Hans"
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "public"
+enableEmoji                = true
+hasCJKLanguage             = true
+summaryLength              = 200
+Paginate                   = 3
+
+theme                      = "AllinOne"
+title                      = "Ran Jing"
+
+pygmentsuseclasses         = true
+
+
+[permalinks]
+  blog                     = "blog/:year-:month/:slug/"
+
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
+
+[menu]
+  [[menu.main]]
+    name                   = "Blog"
+    weight                 = -120
+    identifier             = "blog"
+    url                    = "blog/"  
+
+  [[menu.main]]
+    name                   = "Moment"
+    weight                 = -110
+    identifier             = "moment"
+    url                    = "moment/" 
+
+  [[menu.main]]
+    name                   = "About me"
+    weight                 = -100
+    identifier             = "about"
+    url                    = "about/"  
+
+ 
+
+[params]
+  faviconfile              = "img/"               # from static/
+  avatar                   = "img/profile.jpeg"             # path to image in static dir e.g img/avatar.png 
+  author                   = "Ran Jing"
+  description              = ["Live healthier", "Think deeper", "Love harder"]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Hello, robots!"
+  welcome_word             = "Make actions, gain rewards"
+
+  latestpostscount         = 5                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "Jan 2, 2006"
+  dateformfull             = "2006-01-02  Monday  15:04:05"
+  noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
+
+  # slides
+  #slidesDirPath            = "themes/AllinOne/static/img/header-slides"    # path to image in local dir (path for hugo)
+  #slidesDirPathURL         = "img/header-slides"    # path to image in static dir (for static pages)
+  slidesDirPath             = "static/img/header-slides"  
+  slidesDirPathURL          = "img/header-slides"
+
+  # highlighting 
+  highlightjs              = true
+
+  # latex
+  katex                    = true
+
+  # links
+  email                    = "rjinghd@gmail.com"
+  github                   = "//github.com/rjingHD"
+  linkedin                 = "//www.linkedin.com/in/ran-jing-6b4b0b192/"
+  facebook                 = "//www.facebook.com/ran.jing.7503"
+  googleplus               = "//scholar.google.com/citations?user=XHLsDiwAAAAJ&hl=en"
+  twitter                  = "//twitter.com/RanJing12" 
+  px500                    = "//500px.com/p/rjing?view=photos"
+  instagram                = "//www.instagram.com/ran.jing.7503/"
+  include_rss              = true                          # include RSS <link> tag in <head> and show RSS icon
+  
+  # analytics
+  googleAnalytics          = "your-google-analytic-id"
