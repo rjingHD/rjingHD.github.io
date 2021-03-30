@@ -1,4 +1,4 @@
-baseURL                   = "https://rjinghd.github.io/"
+baseURL                    = "https://rjinghd.github.io/"
 builddrafts                = false
 languageCode               = "zn-Hans"
 canonifyurls               = true
