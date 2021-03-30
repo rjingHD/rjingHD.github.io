@@ -4,7 +4,7 @@ languageCode               = "zn-Hans"
 canonifyurls               = true
 contentdir                 = "content"
 layoutdir                  = "layouts"
-publishdir                 = "public"
+publishdir                 = "docs"
 enableEmoji                = true
 hasCJKLanguage             = true
 summaryLength              = 200
@@ -86,3 +86,4 @@ pygmentsuseclasses         = true
   
   # analytics
   googleAnalytics          = "your-google-analytic-id"
+
