@@ -7,5 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Mon, 29 Mar 2021 22:07:43 -0400</lastBuildDate><atom:link href="https://rjinghd.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://rjinghd.github.io/blog/2021-03/reinforcement-learning/</link>
+      <pubDate>Tue, 30 Mar 2021 21:48:37 -0400</pubDate>
+      
+      <guid>https://rjinghd.github.io/blog/2021-03/reinforcement-learning/</guid>
+      <description>Reinforcement Learning Lecture 1 sparse reward &amp;ndash; only get the reward at the very last step (e.g. win or lose) difference between RL and other machine learning paradises AI planning &amp;ndash;&amp;gt; known the environment dynamics &amp;ndash;enumerate Supervised Learning &amp;ndash;&amp;gt; Learning with labels Unsupervised Learning &amp;ndash;&amp;gt; Learning without labels Imitation Learning &amp;ndash;&amp;gt; Reverse Reinforcement Learning
+RL involves 4 key aspects Optimization Exploration Generalization Delayed consequences
+Supervised Learning Optimization &amp;ndash; minimize the miss classified loss Generalization &amp;ndash; from training data to test data
+Unsupervised Learning Optimization &amp;ndash; minimize the total distance Generalization &amp;ndash; choose an smallest distance to one centroid
+Imitation Learning Optimization. &amp;ndash;maximize the similarity of the observed data Generalization Delay consequences &amp;ndash; Maybe &amp;ndash;Because the problem itself might be a time-sequence problem No Exploration</description>
+    </item>
+    
   </channel>
 </rss>
