@@ -5,6 +5,16 @@
     <link>https://rjinghd.github.io/categories/</link>
     <description>Recent content in Categories on Ran Jing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zn-Hans</language><atom:link href="https://rjinghd.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zn-Hans</language>
+    <lastBuildDate>Tue, 30 Mar 2021 22:36:31 -0400</lastBuildDate><atom:link href="https://rjinghd.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My life</title>
+      <link>https://rjinghd.github.io/categories/my-life/</link>
+      <pubDate>Tue, 30 Mar 2021 22:36:31 -0400</pubDate>
+      
+      <guid>https://rjinghd.github.io/categories/my-life/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
