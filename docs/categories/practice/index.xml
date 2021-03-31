@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>practice on Ran Jing</title>
+    <link>https://rjinghd.github.io/categories/practice/</link>
+    <description>Recent content in practice on Ran Jing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Tue, 30 Mar 2021 21:42:14 -0400</lastBuildDate><atom:link href="https://rjinghd.github.io/categories/practice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robot Dynamics Project</title>
+      <link>https://rjinghd.github.io/project/robot-dynamics-project/</link>
+      <pubDate>Tue, 30 Mar 2021 21:42:14 -0400</pubDate>
+      
+      <guid>https://rjinghd.github.io/project/robot-dynamics-project/</guid>
+      <description>Course project for WPI RBE501.</description>
+    </item>
+    
+  </channel>
+</rss>
