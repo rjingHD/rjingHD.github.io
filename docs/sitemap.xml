@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rjinghd.github.io/moment/niagara-cornell/</loc>
+    <lastmod>2021-03-30T22:03:14-04:00</lastmod>
+  </url><url>
     <loc>https://rjinghd.github.io/</loc>
-    <lastmod>2021-03-30T21:48:37-04:00</lastmod>
+    <lastmod>2021-03-30T22:03:14-04:00</lastmod>
+  </url><url>
+    <loc>https://rjinghd.github.io/moment/</loc>
+    <lastmod>2021-03-30T22:00:51-04:00</lastmod>
+  </url><url>
+    <loc>https://rjinghd.github.io/blog/</loc>
+    <lastmod>2021-03-30T22:00:31-04:00</lastmod>
   </url><url>
     <loc>https://rjinghd.github.io/blog/2021-03/reinforcement-learning/</loc>
     <lastmod>2021-03-30T21:48:37-04:00</lastmod>
@@ -12,12 +21,6 @@
     <lastmod>2021-03-30T21:42:14-04:00</lastmod>
   </url><url>
     <loc>https://rjinghd.github.io/about/</loc>
-    <lastmod>2021-03-29T22:07:43-04:00</lastmod>
-  </url><url>
-    <loc>https://rjinghd.github.io/blog/</loc>
-    <lastmod>2021-03-29T22:07:43-04:00</lastmod>
-  </url><url>
-    <loc>https://rjinghd.github.io/moment/</loc>
     <lastmod>2021-03-29T22:07:43-04:00</lastmod>
   </url><url>
     <loc>https://rjinghd.github.io/project/</loc>
