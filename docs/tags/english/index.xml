@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>English on Ran Jing</title>
+    <title>english on Ran Jing</title>
     <link>https://rjinghd.github.io/tags/english/</link>
-    <description>Recent content in English on Ran Jing</description>
+    <description>Recent content in english on Ran Jing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Tue, 30 Mar 2021 22:36:31 -0400</lastBuildDate><atom:link href="https://rjinghd.github.io/tags/english/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,24 @@
       
       <guid>https://rjinghd.github.io/moment/trip-western-ny/</guid>
       <description>2021.3.18-2021.3.20 A self-driving tour to Western New York with 3 friends.</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://rjinghd.github.io/blog/2021-03/reinforcement-learning/</link>
+      <pubDate>Tue, 30 Mar 2021 21:48:37 -0400</pubDate>
+      
+      <guid>https://rjinghd.github.io/blog/2021-03/reinforcement-learning/</guid>
+      <description>Lecture notes for WPI CS525 RL.</description>
+    </item>
+    
+    <item>
+      <title>Robot Dynamics Project</title>
+      <link>https://rjinghd.github.io/project/robot-dynamics-project/</link>
+      <pubDate>Tue, 30 Mar 2021 21:42:14 -0400</pubDate>
+      
+      <guid>https://rjinghd.github.io/project/robot-dynamics-project/</guid>
+      <description>Course project for WPI RBE501.</description>
     </item>
     
   </channel>

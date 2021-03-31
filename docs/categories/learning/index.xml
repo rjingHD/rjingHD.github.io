@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ran Jing</title>
-    <link>https://rjinghd.github.io/</link>
-    <description>Recent content on Ran Jing</description>
+    <title>Learning on Ran Jing</title>
+    <link>https://rjinghd.github.io/categories/learning/</link>
+    <description>Recent content in Learning on Ran Jing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Tue, 30 Mar 2021 22:36:31 -0400</lastBuildDate><atom:link href="https://rjinghd.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Trip to Western New York (2021.03)</title>
-      <link>https://rjinghd.github.io/moment/trip-western-ny/</link>
-      <pubDate>Tue, 30 Mar 2021 22:36:31 -0400</pubDate>
-      
-      <guid>https://rjinghd.github.io/moment/trip-western-ny/</guid>
-      <description>2021.3.18-2021.3.20 A self-driving tour to Western New York with 3 friends.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 30 Mar 2021 21:48:37 -0400</lastBuildDate><atom:link href="https://rjinghd.github.io/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reinforcement Learning</title>
       <link>https://rjinghd.github.io/blog/2021-03/reinforcement-learning/</link>
