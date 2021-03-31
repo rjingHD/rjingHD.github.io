@@ -2,6 +2,11 @@
 title: "A Trip to Western New York (2021.03)"
 date: 2021-03-30T22:36:31-04:00
 draft: false
+tags: ["trip", "English"]
+series: ["Travels"]
+categories: ["My life"]
+img: ""
+summary: "2021.3.18-2021.3.20 A self-driving tour to Western New York with 3 friends."
 ---
 
 # A Trip to Western New York (2021.03)
