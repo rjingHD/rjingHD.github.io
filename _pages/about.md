@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! I am glad that you are visiting my personal website!
 
- I am a third-year PhD student in Mechanical Engineering at [Boston University](https://www.bu.edu/eng/academics/departments-and-divisions/mechanical-engineering/), where I work as a member of [Soft Robotics Control (SRC) Lab](https://sites.bu.edu/srclab/) and [BU Robotics Laboratory](https://sites.bu.edu/robotics/) . I am fortunate to be advised by [Professor Andrew Sabelhaus](https://sites.bu.edu/srclab/profile/andrew-sabelhaus/). Before moving to BU, I obtained a B.Eng in Control Science and Engineering at Shandong University, China and an M.S. in Robotics Engineering at Worcester Polytechnic Institute.
+ I am a third-year PhD student in Mechanical Engineering at [Boston University](https://www.bu.edu/eng/academics/departments-and-divisions/mechanical-engineering/), where I work as a member of [Soft Robotics Control (SRC) Lab](https://sites.bu.edu/srclab/) and [BU Robotics Laboratory](https://sites.bu.edu/robotics/) . I am fortunate to be advised by [Professor Andrew Sabelhaus](https://sites.bu.edu/srclab/profile/andrew-sabelhaus/). Before moving to BU, I obtained a B.Eng in Control Science and Engineering at [Shandong University](https://control.sdu.edu.cn/), China and an M.S. in Robotics Engineering at [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering).
 
 My research focus pertains to soft robot modelling, learning and control. More specifically, I am passionate about devising data-driven methods, learning approaches and other advanced control technics to facilitate the safe interaction of soft robots with humans and their external environment.
 
